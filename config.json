@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservelete",
+        "uuid": 17250750,
+        "checksum": "tv241n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
